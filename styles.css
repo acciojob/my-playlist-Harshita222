@@ -15,5 +15,10 @@ body{
  ul {
             list-style-type: none;
         }
-
-
+h1,h2{
+	
+ text-align:center"
+}
+a {
+            text-decoration-line: none;
+        }
